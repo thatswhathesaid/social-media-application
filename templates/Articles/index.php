@@ -1,4 +1,4 @@
-<<h1>Articles</h1>
+<h1>Articles</h1>
 <p><?= $this->Html->link("Add Article", ['action' => 'add']) ?></p>
 <table>
     <tr>
